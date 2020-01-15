@@ -1,0 +1,18 @@
+author="sergey"
+description="Lead Prince Haldric through the destruction of the Green Isle and across the Ocean to establish the very kingdom of Wesnoth itself. The confrontation with Lich-Lord Jevyan awaits...
+
+UMC version of The Rise of Wesnoth campaign with the next changes:
+- Early finish bonus gives points, which may be used to upgrade main characters.
+- Gold carryover is 5% - 10% instead of 40%. Starting gold is increased. This is done to improve balance.
+- Besides Easy, Normal and Challenging there are two additional difficulties inserted between the existing.
+
+(Hard level, 20 scenarios.)"
+email="svlavrenyuk@gmail.com"
+passphrase=<PLACEHOLDER>
+icon="data/campaigns/The_Rise_Of_Wesnoth/images/units/noble-lord-leading.png"
+title="The Rise of Wesnoth (alternative mechanics)"
+type="campaign"
+version="1.0.0"
+[feedback]
+    topic_id=51087
+[/feedback]
