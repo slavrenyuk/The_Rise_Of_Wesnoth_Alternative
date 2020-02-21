@@ -12,7 +12,7 @@ passphrase=<PLACEHOLDER>
 icon="data/campaigns/The_Rise_Of_Wesnoth/images/units/noble-lord-leading.png"
 title="The Rise of Wesnoth (alternative mechanics)"
 type="campaign"
-version="1.0.0"
+version="1.1.0"
 [feedback]
     topic_id=51087
 [/feedback]
